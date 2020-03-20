@@ -42,8 +42,7 @@
 .blue{
     color: blue;
 }
-.center{
-    text-align: center;
+
 }
 input{
     text-align: justify; width: 200px;border-width: 3px;
@@ -53,18 +52,32 @@ input{
     margin-right: 3%;
     text-align: center;
 }
-.container{
-    margin-left: 20px;
-    margin-right: 20px;
-    background-color: cyan;
+.container2{
+    /* background-image: url('../img/1.jpg'); */
+    margin-left: 0px;
+    margin-right: 0px;
+  
 
 }
 .container-header{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
     height: 60px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 5px;
+    padding-bottom: 70px;
     text-align: center;
     background-color: chartreuse;
+}
+.center{
+  text-align: center;
+}
+.button {
+  background-color:red;
+  border:2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
