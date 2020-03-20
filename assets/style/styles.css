@@ -22,6 +22,9 @@
   .head-center {
     text-align: center;
   }
+  .item{
+    padding-right: 15px;
+  }
   .roundPhoto {
     border-radius: 50%;
     border: 5px solid #eee;
@@ -54,9 +57,8 @@ input{
 }
 .container2{
     /* background-image: url('../img/1.jpg'); */
-    margin-left: 0px;
-    margin-right: 0px;
-  
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 .container-header{
