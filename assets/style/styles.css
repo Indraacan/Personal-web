@@ -1,0 +1,70 @@
+.topnav {
+    background-color: rgb(14, 9, 9);
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .container {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+  }
+  * {
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .head-center {
+    text-align: center;
+  }
+  .roundPhoto {
+    border-radius: 50%;
+    border: 5px solid #eee;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+    width: 200px;
+  }
+  .ex {
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+  .flex-item {
+    flex: 2;
+  }
+  .color{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.center{
+    text-align: center;
+}
+input{
+    text-align: justify; width: 200px;border-width: 3px;
+}
+.gambar{
+    width: 200px;
+    margin-right: 3%;
+    text-align: center;
+}
+.container{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cyan;
+
+}
+.container-header{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: chartreuse;
+}
